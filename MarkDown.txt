@@ -1,0 +1,19 @@
+====== MARKDOWN ======
+
+- É utilizado em aquivos .md 
+- É uma linguagem de marcação, assim como o html
+- Foi criado com o objetivo de ser uma linguagem de marcação com leitura mais fácil
+- É muito utilizado no Github, nos arquivos README, nas issues e nas pull requests
+
+Guia:
+- # Cria um título (quanto mais #, menor o título)
+- **frase** ou __frase__, deixa a frase em negrito
+- *frase* ou _frase_, deixa a frase em itálico
+- ~~frase~~, deixa a frase riscada
+- --- ou *** faz uma linha divisória
+- é possível misturar (__*frase*__)
+- 1. Cria uma lista númerada (pode-se usar apenas 1)
+- três espaços após uma lista númerada cria um sub-item
+- * ou - Item Cria uma lista demarcada
+- - [] cria uma lista de tarefas ([x] caso preenchido)
+
