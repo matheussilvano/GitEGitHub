@@ -16,4 +16,16 @@ Guia:
 - três espaços após uma lista númerada cria um sub-item
 - * ou - Item Cria uma lista demarcada
 - - [] cria uma lista de tarefas ([x] caso preenchido)
+- ![Descriçaõ da imagem](linkdaimagem.png)
+- [Acesse meu link](site.com)
+Tabelas:
+    Num | Nome | Nota
+    --- | --- | ---
+    1 | Matheus | 10
+    2 | José | 9
+
+- `comando` formata um comando (```para abrir e pra fechar```)
+- :emoji cria um emoji (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- @pessoa marca uma pessoa
+- > Frase cria uma replie
 
